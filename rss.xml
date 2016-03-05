@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Citywide Digital]]></title>
+        <description><![CDATA[Citywide Digital]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 05 Mar 2016 18:45:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Digital Thinking That Works]]></title>
+            <description><![CDATA[<article><h1>Digital Thinking That Works</h1><p>We are a digital marketing agency, proud of our technical expertise, creative flair and ability to develop results focused solutions for our clients.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8aee4a7381e001f02014dc0356ece79ed76c401a.jpg"></article>]]></description>
+            <link>undefineddigital-thinking-that-works/index.html</link>
+            <guid isPermaLink="false">6f71b134-a03e-4352-a659-393bbe558690</guid>
+            <pubDate>Sat, 05 Mar 2016 18:45:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
